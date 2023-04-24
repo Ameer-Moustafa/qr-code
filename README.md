@@ -16,3 +16,5 @@ First challenge for frontendmentor.io, I needed more HTML, CSS and responsive de
 ## Helpful resources:
 
 [Box Shadow Generator CSS](https://html-css-js.com/css/generator/box-shadow/) - Helped me generate shadows
+
+[live Site](https://d97d2ae6.qr-code-component-9tz.pages.dev/)
