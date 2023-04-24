@@ -63,6 +63,7 @@ p {
 
 @media screen and (max-width: 375px) {
     .qr-container {
+        margin-top: 40%;
         width: 80%;
     }
 
