@@ -4,7 +4,7 @@ First challenge for frontendmentor.io, I needed more HTML, CSS and responsive de
 
 Second attempt - **August 20/2023**:
 
-Re-doing every Frontend mentor challenge I've done so far, Just for practice. This was definitely much easier than it was the first time.
+Re-doing every Frontend mentor challenge I've done so far, Just for practice. This was definitely much easier than it was the first time. Efficiency has definitely increased by a massive margin and I didn't run into any of the problems I ran into on my first attempt with this challenge. Overall the progress is very visible.
 
 
 ## Screenshot
